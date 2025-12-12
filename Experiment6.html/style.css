@@ -1,0 +1,75 @@
+.container{
+            height:560px;
+            width:500px;
+            margin:auto ;
+            border-width:600px;
+            padding: 20px;
+            border-radius:9px;
+            border:4px solid grey;
+            box-sizing: border-box;
+            background-color:white;
+        }
+        .image{
+            width:400px;
+            margin-left:30px;
+            margin-top:2px;
+        
+        }
+        .heading{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align:center;
+            font-style:normal;
+            margin-left:px;
+            margin-right:34px;
+            font-size:53px; 
+        }
+        .header{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin-left:155px;
+            font-weight: 230;
+            font-weight:bold;
+         }
+        .description{
+         margin-left: 31px;
+         font-size:21px;
+         margin-bottom:0px;
+         color:grey;
+
+        }
+        .description-2{
+         margin-left: 210px;
+         font-size:21px;
+         margin-top:2px;
+         color:grey;
+
+        }
+        .how-much{
+         font-size:25px;
+         margin-left:170px;
+         font-style:arial;
+         color:red;
+         padding-top:0px;
+         padding-bottom:0px;
+        }
+        .save{
+         margin-left:164px;
+         font-size:20px;
+         color:white;
+         background-color:blue;
+         border-radius:7px;
+         padding-bottom:10px;
+         padding-top:10px;
+         padding-left:19px;
+         padding-right:19px;
+         border-color:blue;
+         cursor:pointer;
+        }
+        .save:hover{
+         box-shadow: 5px 5px 10px rgba(207, 207, 207, 0.896);
+        
+         opacity:0.4;
+         color:white;
+        }
+        .save:active{
+         opacity:0.2;
+        }
